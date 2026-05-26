@@ -1,3 +1,4 @@
+# 1. Análisis de Requisitos alternativo por dalofe23
 # 1. Análisis de Requisitos
 
 El cliente necesita el despliegue de una infraestructura de Internet basada en la pila LAMP. Esta infraestructura está compuesta por las siguientes herramientas:
